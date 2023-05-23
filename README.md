@@ -7,7 +7,8 @@ Basternid is an automated radiologic identification tool to identify unknown dec
 The anatomical structure used for identification is the sternal bone.
 
 Created by the [Forensic Medicine and Imaging Research Group](https://dbe.unibas.ch/en/research/imaging-modelling-diagnosis/forensic-medicine-imaging-research-group/).
-If you use it, please cite our paper: tbd
+If you use it, please cite our publication: 
+Neuhaus, D., Wittig, H., Scheurer, E. & Lenz, C. Fully automated radiologic identification focusing on the sternal bone. Forensic Sci. Int. 346, 111648 (2023).
 
 # Requirements
 + Numpy
