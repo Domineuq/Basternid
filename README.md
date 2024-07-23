@@ -1,6 +1,7 @@
+# Basternid
+
 ![BasternidLogo](https://user-images.githubusercontent.com/114567200/204021043-cf59ebdd-eda6-4304-98e7-422f575fe94a.svg)
 
-# Basternid
 ### The Basel Sternal Bone Identification Tool
 
 Basternid is an automated radiologic identification tool to identify unknown deceased via comparison of post mortem with ante mortem computed tomography data. 
